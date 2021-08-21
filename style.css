@@ -1,11 +1,10 @@
 body {
-    background-color:rgb(180, 180, 194);
+    background-color:aliceblue;
     font-family: monospace;
   }
-
-p, ol, ul {
-    background-color:aliceblue
-}
+  h1, h3 {
+      background-color: rgb(180,180, 179);
+  }
 
 #ceu {
 position: inherit;
