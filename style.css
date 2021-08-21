@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(180, 180, 194);
+    font-family: monospace;
+  }
+
+p, ol, ul {
+    background-color:aliceblue
+}
+
+#ceu {
+position: inherit;
+top: 200 px;
+left: 10px;
+}
+
+#anaua {
+position: inherit;
+}
+
+div {
+    block-size: initial;
+}
