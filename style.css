@@ -1,21 +1,23 @@
 body {
-    background-color:aliceblue;
+    background-color: #f5f5f5;
     font-family: monospace;
+    color: #525252;
   }
   h1, h3 {
       background-color: rgb(180,180, 179);
   }
 
 #ceu {
-position: inherit;
-top: 200 px;
+width:1100;
+z-index: 1;
+top: 20px;
 left: 10px;
 }
 
 #anaua {
-position: inherit;
+z-index: 2;
 }
 
-div {
-    block-size: initial;
+.header {
+    background-image:(url("imagem/44bd33ee0555f5bc813b498354d819a7\ \(1\).jpg"));
 }
