@@ -3,11 +3,28 @@ body {
     font-family: monospace;
     color: #525252;
   }
+
   .background {
       background-color: rgb(180,180, 179);
   }
 
-#ceu {
+ .button {
+    color #fff;
+    padding: 15px 30px;
+    text-decoration: none;
+ }
+
+  div{
+    display: block;
+ }
+
+ .header {
+    background-image:(url("imagem/44bd33ee0555f5bc813b498354d819a7\ \(1\).jpg");
+    
+
+
+
+ #ceu {
 z-index: 1;
 top: 20px;
 left: 10px;
@@ -15,16 +32,8 @@ left: 10px;
 
 #anaua {
 z-index: 2;
-top: 50px;
-left: 50px;
+top: 10px;
+left: 10px;
 border-radius:100%;
 }
 
-div{
-    display: block;
-}
-
-.header {
-    background-image:(url("imagem/44bd33ee0555f5bc813b498354d819a7\ \(1\).jpg");
-    
-}
